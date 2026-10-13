@@ -71,7 +71,7 @@ Selected writing and research on communication, technology, cybersecurity, infor
          alt="Site de Raquel Pimentel"
          width="28" height="28" /></a>
 &nbsp;&nbsp;
-  <a href="https://x.com/raquelpimentel"
+  <a href="https://facebook.com/raquelpimentel"
      target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/raquelpimentel/raquelpimentel/main/icons/facebook_icon.png"
          alt="Facebook"
