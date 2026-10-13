@@ -74,28 +74,28 @@ Selected writing and research on communication, technology, cybersecurity, infor
   &nbsp;&nbsp;
   <a href="https://facebook.com/raquelpimentel"
      target="_blank" rel="noopener noreferrer">
-    <img src="icons/facebook.png"
+    <img src="https://raw.githubusercontent.com/raquelpimentel/raquelpimentel/main/icons/facebook_icon.png"
          alt="Facebook"
          width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/raquelpimentel"
      target="_blank" rel="noopener noreferrer">
-    <img src="icons/x.png"
+    <img src="https://raw.githubusercontent.com/raquelpimentel/raquelpimentel/main/icons/x_icon.png"
          alt="X"
          width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://bsky.app/profile/raquelpimentel.com"
      target="_blank" rel="noopener noreferrer">
-    <img src="icons/bluesky.png"
+    <img src="https://raw.githubusercontent.com/raquelpimentel/raquelpimentel/main/icons/bluesky_icon.png"
          alt="Bluesky"
          width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/pimentelraquel"
      target="_blank" rel="noopener noreferrer">
-    <img src="icons/instagram.png"
+    <img src="https://raw.githubusercontent.com/raquelpimentel/raquelpimentel/main/icons/instagram_icon.png"
          alt="Instagram"
          width="28" height="28" />
   </a>
