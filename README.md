@@ -76,6 +76,12 @@ Selected writing and research on communication, technology, cybersecurity, infor
     <img src="https://raw.githubusercontent.com/raquelpimentel/raquelpimentel/main/icons/facebook_icon.png"
          alt="Facebook"
          width="28" height="28" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/raquelpimentel"
+     target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/raquelpimentel/raquelpimentel/main/icons/linkedin_icon.png"
+         alt="LinkedIn"
+         width="28" height="28" /></a>
 &nbsp;&nbsp;
   <a href="https://x.com/raquelpimentel"
      target="_blank" rel="noopener noreferrer">
